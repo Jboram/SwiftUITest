@@ -1,0 +1,18 @@
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Helper/MapView.swift":
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/MapView.o"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/MapView.d"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/MapView.dia"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/MapView.swiftconstvalues"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/MapView.swiftdeps"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Badge/Badge.swift":
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/Badge.dia"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/Badge.o"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/Badge.swiftconstvalues"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/Badge.d"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/Badge.swiftdeps"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Hikes/GraphCapsule.swift":
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/GraphCapsule.o"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/GraphCapsule.swiftdeps"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/GraphCapsule.swiftconstvalues"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/GraphCapsule.d"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/GraphCapsule.dia"

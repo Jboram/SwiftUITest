@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'SwiftUITestUITests' in project 'SwiftUITest' (no dependencies)
+Target 'SwiftUITestUITests' in project 'SwiftUITest'
+➜ Explicit dependency on target 'SwiftUITest' in project 'SwiftUITest'
+Target 'SwiftUITestUITests' in project 'SwiftUITest'
+➜ Explicit dependency on target 'SwiftUITest' in project 'SwiftUITest'
+Target 'SwiftUITestTests' in project 'SwiftUITest' (no dependencies)
+Target 'SwiftUITestTests' in project 'SwiftUITest'
+➜ Explicit dependency on target 'SwiftUITest' in project 'SwiftUITest'
+Target 'SwiftUITestTests' in project 'SwiftUITest'
+➜ Explicit dependency on target 'SwiftUITest' in project 'SwiftUITest'
+Target 'SwiftUITest' in project 'SwiftUITest' (no dependencies)
+Target 'SwiftUITest' in project 'SwiftUITest' (no dependencies)

@@ -1,0 +1,18 @@
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Profiles/ProfileSummary.swift":
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.swiftconstvalues"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.o"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.d"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.swiftdeps"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.dia"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Profiles/ProfileHost.swift":
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileHost.o"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileHost.d"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileHost.swiftdeps"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileHost.dia"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/ProfileHost.swiftconstvalues"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Badge/HexagonParameters.swift":
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/HexagonParameters.d"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/HexagonParameters.swiftdeps"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/HexagonParameters.swiftconstvalues"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/HexagonParameters.o"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/HexagonParameters.dia"

@@ -1,0 +1,18 @@
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Helper/CircleImage.swift":
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/CircleImage.dia"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/CircleImage.o"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/CircleImage.swiftconstvalues"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/CircleImage.d"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/CircleImage.swiftdeps"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Badge/BadgeBackground.swift":
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/BadgeBackground.swiftconstvalues"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/BadgeBackground.d"
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/BadgeBackground.dia"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/BadgeBackground.o"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/BadgeBackground.swiftdeps"
+"/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Model/Landmark.swift":
+  diagnostics: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/Landmark.dia"
+  swift-dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/Landmark.swiftdeps"
+  dependencies: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/Landmark.d"
+  const-values: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/Landmark.swiftconstvalues"
+  object: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphoneos/SwiftUITest.build/Objects-normal/arm64/Landmark.o"

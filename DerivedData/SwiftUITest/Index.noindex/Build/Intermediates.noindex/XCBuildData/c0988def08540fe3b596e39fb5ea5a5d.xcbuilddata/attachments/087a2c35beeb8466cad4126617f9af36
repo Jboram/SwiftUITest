@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Index.noindex/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITestUITests.build/Objects-normal/arm64/SwiftUITestUITests-master.d",
+    "diagnostics" : "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Index.noindex/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITestUITests.build/Objects-normal/arm64/SwiftUITestUITests-master.dia",
+    "emit-module-dependencies" : "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Index.noindex/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITestUITests.build/Objects-normal/arm64/SwiftUITestUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Index.noindex/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITestUITests.build/Objects-normal/arm64/SwiftUITestUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Index.noindex/Build/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITestUITests.build/Objects-normal/arm64/SwiftUITestUITests-master.swiftdeps"
+  },
+  "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITestUITests/SwiftUITestUITests.swift" : {
+
+  },
+  "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITestUITests/SwiftUITestUITestsLaunchTests.swift" : {
+
+  }
+}

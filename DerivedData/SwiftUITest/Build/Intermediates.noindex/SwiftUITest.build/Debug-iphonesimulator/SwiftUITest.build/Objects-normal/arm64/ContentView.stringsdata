@@ -1,0 +1,12 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

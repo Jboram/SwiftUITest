@@ -1,0 +1,28 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Profiles/ProfileSummary.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notifications: %@"
+      },
+      {
+        "comment": "",
+        "key": "Seasonal Photos: %@"
+      },
+      {
+        "comment": "",
+        "key": "Goal Date: "
+      },
+      {
+        "comment": "",
+        "key": "Completed Badges"
+      },
+      {
+        "comment": "",
+        "key": "Recent Hikes"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/Previews/SwiftUITest/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/HikeBadge.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Badge for %@."
+      }
+    ]
+  },
+  "version": 1
+}

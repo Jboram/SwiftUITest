@@ -1,0 +1,12 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Landmarks/LandmarkDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About %@"
+      }
+    ]
+  },
+  "version": 1
+}

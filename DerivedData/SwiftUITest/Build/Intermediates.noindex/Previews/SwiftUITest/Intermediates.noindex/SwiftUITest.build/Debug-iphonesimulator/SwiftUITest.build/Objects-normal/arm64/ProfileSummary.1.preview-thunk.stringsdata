@@ -1,0 +1,28 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/DerivedData/SwiftUITest/Build/Intermediates.noindex/Previews/SwiftUITest/Intermediates.noindex/SwiftUITest.build/Debug-iphonesimulator/SwiftUITest.build/Objects-normal/arm64/ProfileSummary.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notifications: %@"
+      },
+      {
+        "comment": "",
+        "key": "Seasonal Photos: %@"
+      },
+      {
+        "comment": "",
+        "key": "Goal Date: "
+      },
+      {
+        "comment": "",
+        "key": "Completed Badges"
+      },
+      {
+        "comment": "",
+        "key": "Recent Hikes"
+      }
+    ]
+  },
+  "version": 1
+}

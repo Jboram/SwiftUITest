@@ -1,0 +1,12 @@
+{
+  "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Hikes/HikeBadge.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Badge for %@."
+      }
+    ]
+  },
+  "version": 1
+}
