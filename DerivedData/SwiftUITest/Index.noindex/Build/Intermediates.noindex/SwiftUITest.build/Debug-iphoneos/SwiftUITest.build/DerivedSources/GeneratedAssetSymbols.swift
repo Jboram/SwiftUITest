@@ -34,6 +34,9 @@ extension DeveloperToolsSupport.ImageResource {
     /// The "charleyrivers" asset catalog image resource.
     static let charleyrivers = DeveloperToolsSupport.ImageResource(name: "charleyrivers", bundle: resourceBundle)
 
+    /// The "charleyrivers_feature" asset catalog image resource.
+    static let charleyriversFeature = DeveloperToolsSupport.ImageResource(name: "charleyrivers_feature", bundle: resourceBundle)
+
     /// The "chilkoottrail" asset catalog image resource.
     static let chilkoottrail = DeveloperToolsSupport.ImageResource(name: "chilkoottrail", bundle: resourceBundle)
 
@@ -58,8 +61,14 @@ extension DeveloperToolsSupport.ImageResource {
     /// The "stmarylake" asset catalog image resource.
     static let stmarylake = DeveloperToolsSupport.ImageResource(name: "stmarylake", bundle: resourceBundle)
 
+    /// The "stmarylake_feature" asset catalog image resource.
+    static let stmarylakeFeature = DeveloperToolsSupport.ImageResource(name: "stmarylake_feature", bundle: resourceBundle)
+
     /// The "turtlerock" asset catalog image resource.
     static let turtlerock = DeveloperToolsSupport.ImageResource(name: "turtlerock", bundle: resourceBundle)
+
+    /// The "turtlerock_feature" asset catalog image resource.
+    static let turtlerockFeature = DeveloperToolsSupport.ImageResource(name: "turtlerock_feature", bundle: resourceBundle)
 
     /// The "twinlake" asset catalog image resource.
     static let twinlake = DeveloperToolsSupport.ImageResource(name: "twinlake", bundle: resourceBundle)
@@ -110,6 +119,15 @@ extension AppKit.NSImage {
     static var charleyrivers: AppKit.NSImage {
 #if !targetEnvironment(macCatalyst)
         .init(resource: .charleyrivers)
+#else
+        .init()
+#endif
+    }
+
+    /// The "charleyrivers_feature" asset catalog image.
+    static var charleyriversFeature: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .charleyriversFeature)
 #else
         .init()
 #endif
@@ -187,10 +205,28 @@ extension AppKit.NSImage {
 #endif
     }
 
+    /// The "stmarylake_feature" asset catalog image.
+    static var stmarylakeFeature: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .stmarylakeFeature)
+#else
+        .init()
+#endif
+    }
+
     /// The "turtlerock" asset catalog image.
     static var turtlerock: AppKit.NSImage {
 #if !targetEnvironment(macCatalyst)
         .init(resource: .turtlerock)
+#else
+        .init()
+#endif
+    }
+
+    /// The "turtlerock_feature" asset catalog image.
+    static var turtlerockFeature: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .turtlerockFeature)
 #else
         .init()
 #endif
@@ -226,6 +262,15 @@ extension UIKit.UIImage {
     static var charleyrivers: UIKit.UIImage {
 #if !os(watchOS)
         .init(resource: .charleyrivers)
+#else
+        .init()
+#endif
+    }
+
+    /// The "charleyrivers_feature" asset catalog image.
+    static var charleyriversFeature: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .charleyriversFeature)
 #else
         .init()
 #endif
@@ -303,10 +348,28 @@ extension UIKit.UIImage {
 #endif
     }
 
+    /// The "stmarylake_feature" asset catalog image.
+    static var stmarylakeFeature: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .stmarylakeFeature)
+#else
+        .init()
+#endif
+    }
+
     /// The "turtlerock" asset catalog image.
     static var turtlerock: UIKit.UIImage {
 #if !os(watchOS)
         .init(resource: .turtlerock)
+#else
+        .init()
+#endif
+    }
+
+    /// The "turtlerock_feature" asset catalog image.
+    static var turtlerockFeature: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .turtlerockFeature)
 #else
         .init()
 #endif

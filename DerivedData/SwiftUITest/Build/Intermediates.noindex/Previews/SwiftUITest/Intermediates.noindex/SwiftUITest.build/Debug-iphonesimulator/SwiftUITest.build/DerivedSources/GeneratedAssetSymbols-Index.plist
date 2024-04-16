@@ -20,6 +20,16 @@
 			<key>catalogPath</key>
 			<string>/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Assets.xcassets</string>
 			<key>objcSymbol</key>
+			<string>ACImageNameCharleyriversFeature</string>
+			<key>relativePath</key>
+			<string>./charleyrivers_feature.imageset</string>
+			<key>swiftSymbol</key>
+			<string>charleyriversFeature</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Assets.xcassets</string>
+			<key>objcSymbol</key>
 			<string>ACImageNameChilkoottrail</string>
 			<key>relativePath</key>
 			<string>./chilkoottrail.imageset</string>
@@ -100,11 +110,31 @@
 			<key>catalogPath</key>
 			<string>/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Assets.xcassets</string>
 			<key>objcSymbol</key>
+			<string>ACImageNameStmarylakeFeature</string>
+			<key>relativePath</key>
+			<string>./stmarylake_feature.imageset</string>
+			<key>swiftSymbol</key>
+			<string>stmarylakeFeature</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Assets.xcassets</string>
+			<key>objcSymbol</key>
 			<string>ACImageNameTurtlerock</string>
 			<key>relativePath</key>
 			<string>./turtlerock.imageset</string>
 			<key>swiftSymbol</key>
 			<string>turtlerock</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTurtlerockFeature</string>
+			<key>relativePath</key>
+			<string>./turtlerock_feature.imageset</string>
+			<key>swiftSymbol</key>
+			<string>turtlerockFeature</string>
 		</dict>
 		<dict>
 			<key>catalogPath</key>

@@ -13,12 +13,15 @@ extension CategoryHome {
         #sourceLocation(file: "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Categories/CategoryHome.swift", line: 15)
         NavigationSplitView {
             List {
-                modelData.features[__designTimeInteger("#58006.[1].[2].property.[0].[0].arg[0].value.[0].arg[0].value.[0].[0]", fallback: 0)].image
-                    .resizable()
-                    .scaledToFill()
-                    .frame(height: __designTimeInteger("#58006.[1].[2].property.[0].[0].arg[0].value.[0].arg[0].value.[0].modifier[2].arg[0].value", fallback: 200))
-                    .clipped()
-                    .listRowInsets(EdgeInsets())
+//                modelData.features[0].image
+//                    .resizable()
+//                    .scaledToFill()
+//                    .frame(height: 200)
+//                    .clipped()
+//                    .listRowInsets(EdgeInsets())
+                PageView(pages: modelData.features.map{
+                    FeatureCard(landmark: $0)
+                }).listRowInsets(EdgeInsets())
                 
                 ForEach(modelData.categories.keys.sorted(), id: \.self){
                     key in

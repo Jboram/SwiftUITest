@@ -384,6 +384,90 @@
 			<key>uniqueIdentifier</key>
 			<string>1282F59B-FC0F-4889-A4FF-051DF462A852</string>
 		</dict>
+		<key>14C2AB40-650F-413A-8B01-D3FBCCF4237B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14C2AB40-650F-413A-8B01-D3FBCCF4237B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923196.07258403</real>
+			<key>timeStoppedRecording</key>
+			<real>734923196.99526405</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>14C2AB40-650F-413A-8B01-D3FBCCF4237B</string>
+		</dict>
+		<key>195D5807-0E15-422A-AE93-ACDBA9E312D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>195D5807-0E15-422A-AE93-ACDBA9E312D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923433.72266805</real>
+			<key>timeStoppedRecording</key>
+			<real>734923436.27867997</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>195D5807-0E15-422A-AE93-ACDBA9E312D9</string>
+		</dict>
 		<key>1A40F304-E379-415F-8152-2400FBBB5ABD</key>
 		<dict>
 			<key>className</key>
@@ -594,6 +678,48 @@
 			<key>uniqueIdentifier</key>
 			<string>217378A6-6BDC-4532-905F-ED11DA1B908D</string>
 		</dict>
+		<key>2246B38F-FE0F-4A84-A95E-9B1F76C2267C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2246B38F-FE0F-4A84-A95E-9B1F76C2267C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926144.68618</real>
+			<key>timeStoppedRecording</key>
+			<real>734926146.33473897</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>2246B38F-FE0F-4A84-A95E-9B1F76C2267C</string>
+		</dict>
 		<key>2266A13E-B533-4C4F-8B10-C20015519CC0</key>
 		<dict>
 			<key>className</key>
@@ -677,6 +803,90 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>22F4D948-C906-4DAC-B071-1DF90FAFF9B4</string>
+		</dict>
+		<key>241CA043-7F87-4C14-AB8D-9662BFB2992E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>241CA043-7F87-4C14-AB8D-9662BFB2992E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926125.67425001</real>
+			<key>timeStoppedRecording</key>
+			<real>734926127.22335005</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>241CA043-7F87-4C14-AB8D-9662BFB2992E</string>
+		</dict>
+		<key>2986F234-8C03-464C-8E1D-38996BEA63C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2986F234-8C03-464C-8E1D-38996BEA63C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923348.76186502</real>
+			<key>timeStoppedRecording</key>
+			<real>734923349.49863505</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>2986F234-8C03-464C-8E1D-38996BEA63C1</string>
 		</dict>
 		<key>31E39AD7-921E-42F1-BC6C-C9DAD63F96CB</key>
 		<dict>
@@ -762,6 +972,48 @@
 			<key>uniqueIdentifier</key>
 			<string>39768756-2618-4743-9C04-EC0DF86297BC</string>
 		</dict>
+		<key>3A44FDAC-55DD-48B9-B9E6-6E5730412963</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A44FDAC-55DD-48B9-B9E6-6E5730412963.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926156.91847503</real>
+			<key>timeStoppedRecording</key>
+			<real>734926158.28323102</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>3A44FDAC-55DD-48B9-B9E6-6E5730412963</string>
+		</dict>
 		<key>3FD07EF3-0FB6-4B70-A0DF-17C84EF0E1CD</key>
 		<dict>
 			<key>className</key>
@@ -803,6 +1055,90 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>3FD07EF3-0FB6-4B70-A0DF-17C84EF0E1CD</string>
+		</dict>
+		<key>46675DF9-9240-4536-B0B2-292FCD80D1C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46675DF9-9240-4536-B0B2-292FCD80D1C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923196.84238398</real>
+			<key>timeStoppedRecording</key>
+			<real>734923198.07007897</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>46675DF9-9240-4536-B0B2-292FCD80D1C5</string>
+		</dict>
+		<key>48546BBF-1F61-4DAB-B502-DE97728E3890</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48546BBF-1F61-4DAB-B502-DE97728E3890.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923284.73263204</real>
+			<key>timeStoppedRecording</key>
+			<real>734923285.54876602</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>48546BBF-1F61-4DAB-B502-DE97728E3890</string>
 		</dict>
 		<key>49881F31-B651-4BA2-B01F-04FCAA886DB2</key>
 		<dict>
@@ -972,6 +1308,90 @@
 			<key>uniqueIdentifier</key>
 			<string>4D69406B-B51E-44C7-A60C-0BCA74BBF681</string>
 		</dict>
+		<key>4E7C8714-0DAE-45C7-964C-50CFECBA0CAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E7C8714-0DAE-45C7-964C-50CFECBA0CAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923490.96482503</real>
+			<key>timeStoppedRecording</key>
+			<real>734923491.69197297</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>4E7C8714-0DAE-45C7-964C-50CFECBA0CAD</string>
+		</dict>
+		<key>4E909196-A482-4F6A-9858-A816EA37FA7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E909196-A482-4F6A-9858-A816EA37FA7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734921510.40915406</real>
+			<key>timeStoppedRecording</key>
+			<real>734921514.15008795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>4E909196-A482-4F6A-9858-A816EA37FA7C</string>
+		</dict>
 		<key>50DC6321-71D3-4D8A-B7AA-FD9570BAD878</key>
 		<dict>
 			<key>className</key>
@@ -1056,6 +1476,48 @@
 			<key>uniqueIdentifier</key>
 			<string>50ED8966-6D76-4C90-AAEF-BE0B398964D2</string>
 		</dict>
+		<key>5105CF08-F588-44D7-8613-CA061D0224E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5105CF08-F588-44D7-8613-CA061D0224E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923354.94313395</real>
+			<key>timeStoppedRecording</key>
+			<real>734923356.79969394</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>5105CF08-F588-44D7-8613-CA061D0224E6</string>
+		</dict>
 		<key>5213F2A6-5D76-4951-B86F-990141E915A7</key>
 		<dict>
 			<key>className</key>
@@ -1098,6 +1560,48 @@
 			<key>uniqueIdentifier</key>
 			<string>5213F2A6-5D76-4951-B86F-990141E915A7</string>
 		</dict>
+		<key>5A595142-13A5-42D0-BD37-743FE78FA3DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A595142-13A5-42D0-BD37-743FE78FA3DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923342.59414697</real>
+			<key>timeStoppedRecording</key>
+			<real>734923343.45765197</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>5A595142-13A5-42D0-BD37-743FE78FA3DF</string>
+		</dict>
 		<key>632A74ED-F8C7-40C8-9327-4899B8599F0B</key>
 		<dict>
 			<key>className</key>
@@ -1139,6 +1643,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>632A74ED-F8C7-40C8-9327-4899B8599F0B</string>
+		</dict>
+		<key>6472B1FD-C547-431A-A443-CCAFA0522A65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6472B1FD-C547-431A-A443-CCAFA0522A65.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923201.56965303</real>
+			<key>timeStoppedRecording</key>
+			<real>734923202.22305202</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>6472B1FD-C547-431A-A443-CCAFA0522A65</string>
 		</dict>
 		<key>6919B42C-E00E-4042-8114-7CAE29C3846A</key>
 		<dict>
@@ -1265,6 +1811,90 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>6DF3D703-A8B9-4B93-A0C2-2B0E60236EAD</string>
+		</dict>
+		<key>6E2FF6BC-87A3-4C83-B4AE-2F026B4BB1E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E2FF6BC-87A3-4C83-B4AE-2F026B4BB1E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923444.08790803</real>
+			<key>timeStoppedRecording</key>
+			<real>734923444.827021</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>6E2FF6BC-87A3-4C83-B4AE-2F026B4BB1E2</string>
+		</dict>
+		<key>6ED02FC6-2919-4CB6-AE3F-8C3C0D9CB6BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6ED02FC6-2919-4CB6-AE3F-8C3C0D9CB6BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923184.55008698</real>
+			<key>timeStoppedRecording</key>
+			<real>734923185.35607696</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>6ED02FC6-2919-4CB6-AE3F-8C3C0D9CB6BD</string>
 		</dict>
 		<key>713E7955-D527-4E9A-B052-BB0AE702D922</key>
 		<dict>
@@ -1434,6 +2064,48 @@
 			<key>uniqueIdentifier</key>
 			<string>765DD4B6-F051-4892-A8A2-6F905BEFE5BF</string>
 		</dict>
+		<key>77DAF831-DE64-4500-B2A4-B117B0703EAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77DAF831-DE64-4500-B2A4-B117B0703EAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926093.94612801</real>
+			<key>timeStoppedRecording</key>
+			<real>734926094.85961795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>77DAF831-DE64-4500-B2A4-B117B0703EAC</string>
+		</dict>
 		<key>79996859-F01E-4095-8C4C-2ED9D495A969</key>
 		<dict>
 			<key>className</key>
@@ -1475,6 +2147,90 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>79996859-F01E-4095-8C4C-2ED9D495A969</string>
+		</dict>
+		<key>79FFADDE-418E-48C7-9F0A-A7A43FBA6324</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>79FFADDE-418E-48C7-9F0A-A7A43FBA6324.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923197.81428695</real>
+			<key>timeStoppedRecording</key>
+			<real>734923200.20632899</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>79FFADDE-418E-48C7-9F0A-A7A43FBA6324</string>
+		</dict>
+		<key>7A2F2EE6-1666-4114-A8EB-273045CE8E43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A2F2EE6-1666-4114-A8EB-273045CE8E43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923178.28373897</real>
+			<key>timeStoppedRecording</key>
+			<real>734923178.89818799</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>7A2F2EE6-1666-4114-A8EB-273045CE8E43</string>
 		</dict>
 		<key>7B0038BC-5293-457E-8F33-1E21222035B2</key>
 		<dict>
@@ -1602,6 +2358,90 @@
 			<key>uniqueIdentifier</key>
 			<string>7C5389F7-4EDD-4D76-9041-A19646106F0B</string>
 		</dict>
+		<key>7E2CE807-BA76-4C89-A246-9F1EFAE0DD76</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E2CE807-BA76-4C89-A246-9F1EFAE0DD76.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>8</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923294.19080806</real>
+			<key>timeStoppedRecording</key>
+			<real>734923294.73492503</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>7E2CE807-BA76-4C89-A246-9F1EFAE0DD76</string>
+		</dict>
+		<key>87D43DF8-3C5F-4FA4-B4DB-4C1A1940F07E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87D43DF8-3C5F-4FA4-B4DB-4C1A1940F07E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923330.66134298</real>
+			<key>timeStoppedRecording</key>
+			<real>734923331.19758201</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>87D43DF8-3C5F-4FA4-B4DB-4C1A1940F07E</string>
+		</dict>
 		<key>8B30E6F7-9058-46B5-A10F-322F2352CABB</key>
 		<dict>
 			<key>className</key>
@@ -1644,6 +2484,48 @@
 			<key>uniqueIdentifier</key>
 			<string>8B30E6F7-9058-46B5-A10F-322F2352CABB</string>
 		</dict>
+		<key>8B859031-CA2B-4D89-8D21-AD4072B62FB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B859031-CA2B-4D89-8D21-AD4072B62FB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734925918.88502395</real>
+			<key>timeStoppedRecording</key>
+			<real>734925925.42525494</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>8B859031-CA2B-4D89-8D21-AD4072B62FB2</string>
+		</dict>
 		<key>939285D1-47AC-4031-8FDD-2E261633D22C</key>
 		<dict>
 			<key>className</key>
@@ -1685,6 +2567,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>939285D1-47AC-4031-8FDD-2E261633D22C</string>
+		</dict>
+		<key>9A1142B4-176F-44BA-947C-6940B3B2EBC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A1142B4-176F-44BA-947C-6940B3B2EBC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923180.32000899</real>
+			<key>timeStoppedRecording</key>
+			<real>734923180.76613402</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>9A1142B4-176F-44BA-947C-6940B3B2EBC8</string>
 		</dict>
 		<key>9A7CA0B4-EE6F-496C-9CAC-CCD7F9469352</key>
 		<dict>
@@ -1770,6 +2694,48 @@
 			<key>uniqueIdentifier</key>
 			<string>9C8AB6AF-8C0B-4839-8F22-69AEA8CE5A18</string>
 		</dict>
+		<key>9FECC693-18F3-4ABA-B8CC-46390B05B93B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9FECC693-18F3-4ABA-B8CC-46390B05B93B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923197.24377596</real>
+			<key>timeStoppedRecording</key>
+			<real>734923199.08031499</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>9FECC693-18F3-4ABA-B8CC-46390B05B93B</string>
+		</dict>
 		<key>A12E152E-6182-41A6-B50D-694105E2BF93</key>
 		<dict>
 			<key>className</key>
@@ -1811,6 +2777,174 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>A12E152E-6182-41A6-B50D-694105E2BF93</string>
+		</dict>
+		<key>A1BECB01-3C47-4C14-B075-98E562565E1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1BECB01-3C47-4C14-B075-98E562565E1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734927256.27949595</real>
+			<key>timeStoppedRecording</key>
+			<real>734927266.65492296</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>A1BECB01-3C47-4C14-B075-98E562565E1B</string>
+		</dict>
+		<key>A27B53D3-6CC9-4950-9172-E57178FDC7A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A27B53D3-6CC9-4950-9172-E57178FDC7A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926375.77678394</real>
+			<key>timeStoppedRecording</key>
+			<real>734926376.75062597</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>A27B53D3-6CC9-4950-9172-E57178FDC7A6</string>
+		</dict>
+		<key>A3FE8D86-6444-42F2-A576-57004F1DD791</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3FE8D86-6444-42F2-A576-57004F1DD791.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923478.88780105</real>
+			<key>timeStoppedRecording</key>
+			<real>734923479.64291596</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>A3FE8D86-6444-42F2-A576-57004F1DD791</string>
+		</dict>
+		<key>A528CB3E-C4FE-4456-97C9-2196B67077AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A528CB3E-C4FE-4456-97C9-2196B67077AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923467.05678594</real>
+			<key>timeStoppedRecording</key>
+			<real>734923467.59376895</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>A528CB3E-C4FE-4456-97C9-2196B67077AC</string>
 		</dict>
 		<key>A5B0FD08-76CE-41D1-975D-56392DC92BF0</key>
 		<dict>
@@ -2064,6 +3198,48 @@
 			<key>uniqueIdentifier</key>
 			<string>B1C8FB4B-D351-4740-877B-F2E51071D25D</string>
 		</dict>
+		<key>B1E58098-1F89-4B0E-93EB-11BED1C18326</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1E58098-1F89-4B0E-93EB-11BED1C18326.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>6</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923484.70984995</real>
+			<key>timeStoppedRecording</key>
+			<real>734923485.30768597</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E58098-1F89-4B0E-93EB-11BED1C18326</string>
+		</dict>
 		<key>B2C91FF2-1920-4612-8BCC-D71A1EB745D4</key>
 		<dict>
 			<key>className</key>
@@ -2105,6 +3281,132 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>B2C91FF2-1920-4612-8BCC-D71A1EB745D4</string>
+		</dict>
+		<key>B3627426-16BE-446A-9E10-48183391DCE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3627426-16BE-446A-9E10-48183391DCE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>7</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923267.50186598</real>
+			<key>timeStoppedRecording</key>
+			<real>734923268.61803997</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>B3627426-16BE-446A-9E10-48183391DCE7</string>
+		</dict>
+		<key>B3A9E0D3-9F71-498A-9789-367CC686A746</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3A9E0D3-9F71-498A-9789-367CC686A746.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734926350.18091905</real>
+			<key>timeStoppedRecording</key>
+			<real>734926351.25139105</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>B3A9E0D3-9F71-498A-9789-367CC686A746</string>
+		</dict>
+		<key>B3F6932A-65A1-48BA-A7DE-56D6094C5127</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3F6932A-65A1-48BA-A7DE-56D6094C5127.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734920609.89110303</real>
+			<key>timeStoppedRecording</key>
+			<real>734920612.00725305</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>B3F6932A-65A1-48BA-A7DE-56D6094C5127</string>
 		</dict>
 		<key>B4B72725-2C5B-4041-9C58-DF7B37FA94EA</key>
 		<dict>
@@ -2358,6 +3660,48 @@
 			<key>uniqueIdentifier</key>
 			<string>BD644172-96BC-4720-9315-C8C47900C5E2</string>
 		</dict>
+		<key>BE9B6F7B-0587-48AA-BA1A-548C91BB9953</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE9B6F7B-0587-48AA-BA1A-548C91BB9953.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734927405.40754795</real>
+			<key>timeStoppedRecording</key>
+			<real>734927406.76838005</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>BE9B6F7B-0587-48AA-BA1A-548C91BB9953</string>
+		</dict>
 		<key>C00A27AD-133C-4CB8-AE39-2CA3D035FCE2</key>
 		<dict>
 			<key>className</key>
@@ -2483,6 +3827,90 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>C4883649-2C11-45B6-8CF5-C54CD454F8A9</string>
+		</dict>
+		<key>C57386BD-E543-415C-9D81-F3CD65F36C45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C57386BD-E543-415C-9D81-F3CD65F36C45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734921514.42604303</real>
+			<key>timeStoppedRecording</key>
+			<real>734921514.57456195</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>C57386BD-E543-415C-9D81-F3CD65F36C45</string>
+		</dict>
+		<key>C5AAB402-4B38-4D44-A046-9C39408D7579</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5AAB402-4B38-4D44-A046-9C39408D7579.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923166.21925998</real>
+			<key>timeStoppedRecording</key>
+			<real>734923177.25740504</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>C5AAB402-4B38-4D44-A046-9C39408D7579</string>
 		</dict>
 		<key>C5E131D9-7179-4980-BDB1-A81710415CF4</key>
 		<dict>
@@ -2610,6 +4038,90 @@
 			<key>uniqueIdentifier</key>
 			<string>CAE6C2B5-1A43-4161-84F2-3676C427A22B</string>
 		</dict>
+		<key>CE359564-B013-4CE9-8D50-D289B7CA27ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE359564-B013-4CE9-8D50-D289B7CA27ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923189.53684294</real>
+			<key>timeStoppedRecording</key>
+			<real>734923191.78557599</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>CE359564-B013-4CE9-8D50-D289B7CA27ED</string>
+		</dict>
+		<key>D071283C-0082-48EF-951D-224D48EB8A90</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D071283C-0082-48EF-951D-224D48EB8A90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734921690.50914097</real>
+			<key>timeStoppedRecording</key>
+			<real>734921693.41666603</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>D071283C-0082-48EF-951D-224D48EB8A90</string>
+		</dict>
 		<key>D1687549-AE52-4DFC-AFEF-F8A181921B90</key>
 		<dict>
 			<key>className</key>
@@ -2693,6 +4205,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>D1DB6E53-4452-43E9-97CB-043887F85B81</string>
+		</dict>
+		<key>D222FD7D-27DA-44FE-A1FC-AC6474F67264</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D222FD7D-27DA-44FE-A1FC-AC6474F67264.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923451.44965994</real>
+			<key>timeStoppedRecording</key>
+			<real>734923452.01880705</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>D222FD7D-27DA-44FE-A1FC-AC6474F67264</string>
 		</dict>
 		<key>D3C5A6EA-D274-4148-8448-075298C37C17</key>
 		<dict>
@@ -2820,6 +4374,48 @@
 			<key>uniqueIdentifier</key>
 			<string>DA285A4A-87C7-4E76-A9BD-EE4B7E229914</string>
 		</dict>
+		<key>DBFB2055-81B1-4EC0-9D37-DB298C4AF89F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBFB2055-81B1-4EC0-9D37-DB298C4AF89F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923461.59653902</real>
+			<key>timeStoppedRecording</key>
+			<real>734923462.74109101</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>DBFB2055-81B1-4EC0-9D37-DB298C4AF89F</string>
+		</dict>
 		<key>DD89D82F-2AE1-4E61-81F6-D0D3F9967645</key>
 		<dict>
 			<key>className</key>
@@ -2861,6 +4457,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>DD89D82F-2AE1-4E61-81F6-D0D3F9967645</string>
+		</dict>
+		<key>DE927D47-6CB6-4870-8795-83981AE1BE52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE927D47-6CB6-4870-8795-83981AE1BE52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734927372.96782005</real>
+			<key>timeStoppedRecording</key>
+			<real>734927374.17211998</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>DE927D47-6CB6-4870-8795-83981AE1BE52</string>
 		</dict>
 		<key>E8B5ADAF-9626-4023-8C4D-B78775D1B7F4</key>
 		<dict>
@@ -2904,6 +4542,48 @@
 			<key>uniqueIdentifier</key>
 			<string>E8B5ADAF-9626-4023-8C4D-B78775D1B7F4</string>
 		</dict>
+		<key>ECC7859B-497B-4F86-A71E-BC4AA2C06580</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECC7859B-497B-4F86-A71E-BC4AA2C06580.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734927652.56847095</real>
+			<key>timeStoppedRecording</key>
+			<real>734927653.96034706</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>ECC7859B-497B-4F86-A71E-BC4AA2C06580</string>
+		</dict>
 		<key>EF29A31A-4865-4E55-ACCC-C0A99F71991C</key>
 		<dict>
 			<key>className</key>
@@ -2945,6 +4625,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>EF29A31A-4865-4E55-ACCC-C0A99F71991C</string>
+		</dict>
+		<key>F5FF33AC-37E6-4BEA-A4AA-8C674EF9124C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5FF33AC-37E6-4BEA-A4AA-8C674EF9124C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923204.54965794</real>
+			<key>timeStoppedRecording</key>
+			<real>734923205.46735799</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>F5FF33AC-37E6-4BEA-A4AA-8C674EF9124C</string>
 		</dict>
 		<key>F7011F42-B099-4759-AF47-0D75EDF045D3</key>
 		<dict>
@@ -2988,6 +4710,48 @@
 			<key>uniqueIdentifier</key>
 			<string>F7011F42-B099-4759-AF47-0D75EDF045D3</string>
 		</dict>
+		<key>FA71AF26-7425-42A2-B5E8-FB3944F1F58E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA71AF26-7425-42A2-B5E8-FB3944F1F58E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923497.62443304</real>
+			<key>timeStoppedRecording</key>
+			<real>734923498.68086898</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>FA71AF26-7425-42A2-B5E8-FB3944F1F58E</string>
+		</dict>
 		<key>FB489752-3FDF-4CFD-B9E5-77C5611A4823</key>
 		<dict>
 			<key>className</key>
@@ -3029,6 +4793,48 @@
 			<string>Build for Previews SwiftUITest</string>
 			<key>uniqueIdentifier</key>
 			<string>FB489752-3FDF-4CFD-B9E5-77C5611A4823</string>
+		</dict>
+		<key>FC3DCB8A-702C-4C6B-AFD0-0D7CF28DCD29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC3DCB8A-702C-4C6B-AFD0-0D7CF28DCD29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>4</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUITest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUITest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>timeStartedRecording</key>
+			<real>734923455.96303296</real>
+			<key>timeStoppedRecording</key>
+			<real>734923456.55982399</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUITest</string>
+			<key>uniqueIdentifier</key>
+			<string>FC3DCB8A-702C-4C6B-AFD0-0D7CF28DCD29</string>
 		</dict>
 	</dict>
 </dict>

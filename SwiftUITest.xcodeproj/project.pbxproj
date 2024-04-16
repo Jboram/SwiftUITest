@@ -42,6 +42,10 @@
 		5387CA4A2BCCEE7300157EAE /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA492BCCEE7300157EAE /* ProfileSummary.swift */; };
 		5387CA4C2BCCF04F00157EAE /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA4B2BCCF04F00157EAE /* HikeBadge.swift */; };
 		5387CA4E2BCCF8BB00157EAE /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA4D2BCCF8BB00157EAE /* ProfileEditor.swift */; };
+		5387CA512BCE03D900157EAE /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA502BCE03D900157EAE /* PageViewController.swift */; };
+		5387CA532BCE099D00157EAE /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA522BCE099D00157EAE /* FeatureCard.swift */; };
+		5387CA552BCE0AA800157EAE /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA542BCE0AA800157EAE /* PageView.swift */; };
+		5387CA572BCE199700157EAE /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5387CA562BCE199700157EAE /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,6 +104,10 @@
 		5387CA492BCCEE7300157EAE /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		5387CA4B2BCCF04F00157EAE /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		5387CA4D2BCCF8BB00157EAE /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
+		5387CA502BCE03D900157EAE /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		5387CA522BCE099D00157EAE /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		5387CA542BCE0AA800157EAE /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		5387CA562BCE199700157EAE /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +197,7 @@
 			isa = PBXGroup;
 			children = (
 				11307D792BCA740A00BCDB6B /* ContentView.swift */,
+				5387CA4F2BCE032500157EAE /* PageView */,
 				5387CA462BCCEE4300157EAE /* Profiles */,
 				5387CA372BCCA03000157EAE /* Categories */,
 				11FA91332BCC1F8F009C8288 /* Hikes */,
@@ -281,6 +290,17 @@
 				5387CA4D2BCCF8BB00157EAE /* ProfileEditor.swift */,
 			);
 			path = Profiles;
+			sourceTree = "<group>";
+		};
+		5387CA4F2BCE032500157EAE /* PageView */ = {
+			isa = PBXGroup;
+			children = (
+				5387CA502BCE03D900157EAE /* PageViewController.swift */,
+				5387CA522BCE099D00157EAE /* FeatureCard.swift */,
+				5387CA542BCE0AA800157EAE /* PageView.swift */,
+				5387CA562BCE199700157EAE /* PageControl.swift */,
+			);
+			path = PageView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -419,11 +439,13 @@
 				5387CA452BCCEE2E00157EAE /* Profile.swift in Sources */,
 				11307D7A2BCA740A00BCDB6B /* ContentView.swift in Sources */,
 				5387CA392BCCA04C00157EAE /* CategoryHome.swift in Sources */,
+				5387CA532BCE099D00157EAE /* FeatureCard.swift in Sources */,
 				11FA91392BCC1F8F009C8288 /* HikeGraph.swift in Sources */,
 				11307DC32BCBCCAC00BCDB6B /* Badge.swift in Sources */,
 				11307DA42BCB710200BCDB6B /* MapView.swift in Sources */,
 				11FA91382BCC1F8F009C8288 /* GraphCapsule.swift in Sources */,
 				11307D782BCA740A00BCDB6B /* SwiftUITestApp.swift in Sources */,
+				5387CA572BCE199700157EAE /* PageControl.swift in Sources */,
 				11307DB72BCBB7D600BCDB6B /* FavoriteButton.swift in Sources */,
 				5387CA432BCCE6D100157EAE /* CategoryItem.swift in Sources */,
 				11FA913A2BCC1F8F009C8288 /* HikeDetail.swift in Sources */,
@@ -432,11 +454,13 @@
 				5387CA482BCCEE5200157EAE /* ProfileHost.swift in Sources */,
 				11FA91302BCC1E85009C8288 /* Hike.swift in Sources */,
 				11307DC12BCBCC8800BCDB6B /* RotatedBadgeSymbol.swift in Sources */,
+				5387CA552BCE0AA800157EAE /* PageView.swift in Sources */,
 				11307DBF2BCBCC5300BCDB6B /* BadgeSymbol.swift in Sources */,
 				5387CA4E2BCCF8BB00157EAE /* ProfileEditor.swift in Sources */,
 				11307DB12BCB7E8300BCDB6B /* LandmarkList.swift in Sources */,
 				11FA913B2BCC1F8F009C8288 /* HikeView.swift in Sources */,
 				11307DB52BCBAAC800BCDB6B /* LandmarkDetail.swift in Sources */,
+				5387CA512BCE03D900157EAE /* PageViewController.swift in Sources */,
 				11307DBD2BCBCA1300BCDB6B /* BadgeBackground.swift in Sources */,
 				11307DA22BCB6EDB00BCDB6B /* CircleImage.swift in Sources */,
 				11307DA82BCB737A00BCDB6B /* Landmark.swift in Sources */,
@@ -612,8 +636,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -622,9 +646,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.DiantyBreak.SwiftUITest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -642,8 +670,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -652,9 +680,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.DiantyBreak.SwiftUITest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

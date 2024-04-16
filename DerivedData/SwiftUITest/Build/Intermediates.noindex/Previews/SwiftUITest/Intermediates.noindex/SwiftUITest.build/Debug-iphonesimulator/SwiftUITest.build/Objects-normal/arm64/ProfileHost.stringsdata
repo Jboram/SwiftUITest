@@ -1,5 +1,12 @@
 {
   "source": "/Users/diavision/Documents/ios/TestProjects/SwiftUITest/SwiftUITest/Views/Profiles/ProfileHost.swift",
-  "tables": {},
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel"
+      }
+    ]
+  },
   "version": 1
 }

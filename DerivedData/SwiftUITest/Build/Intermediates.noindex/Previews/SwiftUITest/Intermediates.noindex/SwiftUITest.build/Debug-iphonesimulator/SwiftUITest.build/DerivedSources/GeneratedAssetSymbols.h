@@ -9,6 +9,9 @@
 /// The "charleyrivers" asset catalog image resource.
 static NSString * const ACImageNameCharleyrivers AC_SWIFT_PRIVATE = @"charleyrivers";
 
+/// The "charleyrivers_feature" asset catalog image resource.
+static NSString * const ACImageNameCharleyriversFeature AC_SWIFT_PRIVATE = @"charleyrivers_feature";
+
 /// The "chilkoottrail" asset catalog image resource.
 static NSString * const ACImageNameChilkoottrail AC_SWIFT_PRIVATE = @"chilkoottrail";
 
@@ -33,8 +36,14 @@ static NSString * const ACImageNameSilversalmoncreek AC_SWIFT_PRIVATE = @"silver
 /// The "stmarylake" asset catalog image resource.
 static NSString * const ACImageNameStmarylake AC_SWIFT_PRIVATE = @"stmarylake";
 
+/// The "stmarylake_feature" asset catalog image resource.
+static NSString * const ACImageNameStmarylakeFeature AC_SWIFT_PRIVATE = @"stmarylake_feature";
+
 /// The "turtlerock" asset catalog image resource.
 static NSString * const ACImageNameTurtlerock AC_SWIFT_PRIVATE = @"turtlerock";
+
+/// The "turtlerock_feature" asset catalog image resource.
+static NSString * const ACImageNameTurtlerockFeature AC_SWIFT_PRIVATE = @"turtlerock_feature";
 
 /// The "twinlake" asset catalog image resource.
 static NSString * const ACImageNameTwinlake AC_SWIFT_PRIVATE = @"twinlake";
